@@ -1,0 +1,46 @@
+body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      scroll-behavior: smooth;
+    }
+
+    .navbar {
+      background-color: #343a40;
+    }
+
+    .navbar-brand,
+    .nav-link {
+      color: #fff !important;
+    }
+
+    .hero {
+      background: linear-gradient(135deg, #007bff, #6f42c1);
+      color: white;
+      padding: 100px 0;
+      text-align: center;
+    }
+
+    .section-title {
+      margin-bottom: 30px;
+      font-weight: bold;
+      color: #343a40;
+    }
+
+    .skills i {
+      font-size: 2rem;
+      margin: 10px;
+      color: #007bff;
+    }
+
+    .card:hover {
+      transform: scale(1.03);
+      transition: 0.3s;
+    }
+
+    footer {
+      background-color: #343a40;
+      color: white;
+      text-align: center;
+      padding: 20px 0;
+      margin-top: 40px;
+    }
+  
